@@ -1,4 +1,7 @@
 # RP Shaders : Definitive Edition
+
+![](rp-def-thumbnail.png)
+
 A single-worker shaders project.
 Main target of this project to remake old shaders like "RP Shaders" back in higher quality.
 
